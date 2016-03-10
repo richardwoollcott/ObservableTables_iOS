@@ -18,7 +18,7 @@ namespace ObservableTables.ViewModel
 				},
 				new TaskModel {
 					Name = "Pack Lunch",
-					Notes = "In the bag, make sure we don't squash anything. Remember to pack the orange juice too."
+					Notes = "In the bag, make sure we don't squash anything."
 				},
 				new TaskModel {
 					Name = "Goto Work",

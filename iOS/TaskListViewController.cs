@@ -13,7 +13,7 @@ namespace ObservableTables.iOS
 
 		private TaskListViewModel Vm => Application.Locator.TaskList;
 
-		public TaskListViewController (IntPtr handle) : base (handle)
+		public TaskListViewController(IntPtr handle) : base (handle)
 		{
 		}
 
